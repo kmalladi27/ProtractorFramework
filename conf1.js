@@ -1,5 +1,5 @@
 // conf.js
-//import {Config, browser} from 'protractor';
+
 
 require("babel-register")({
     presets: ["env"]

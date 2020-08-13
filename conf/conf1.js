@@ -6,6 +6,6 @@ require("babel-register")({
 })
 exports.config = {
     framework: 'jasmine',
-    specs: ['./spec1.js'],
+    specs: ['/Users/krishnamalladi/protractor-test/specs/spec2.js'],
     directConnect: true,
 }
